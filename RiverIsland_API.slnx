@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BusinessLayer/BusinessLayer.csproj" />
+  <Project Path="DatabaseLayer/DatabaseLayer.csproj" />
+  <Project Path="RiverIsland_API/RiverIsland_API.csproj" />
+</Solution>
